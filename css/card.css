@@ -1,0 +1,13 @@
+label
+{
+	
+	display:inline-block;
+	margin: 4px;
+	text-align: right;
+
+}
+.form-control
+{
+	width:200px;
+    display: inline;
+}

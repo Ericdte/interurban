@@ -1,0 +1,29 @@
+h1, h2 {
+    text-align: center;
+}
+
+form {
+    width: 400px;
+    margin: 0 auto;
+}
+
+label, input, input[type="submit"] {
+    display: block;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+}
